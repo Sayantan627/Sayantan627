@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sayantan Pal</h1>
-<h3 align="center">An IT undergraduate student from IIEST, Shibpur and passionate web developer</h3>
+<h3 align="center">An IT undergraduate student at IIEST, Shibpur and passionate web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayantan627&label=Profile%20views&color=0e75b6&style=flat" alt="sayantan627" /> </p>
 
 <p align="left"> <a href="https://twitter.com/iam__sayantan" target="blank"><img src="https://img.shields.io/twitter/follow/iam__sayantan?logo=twitter&style=for-the-badge" alt="iam__sayantan" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **NodeJS, C++**
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
