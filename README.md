@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/iam__sayantan" target="blank"><img src="https://img.shields.io/twitter/follow/iam__sayantan?logo=twitter&style=for-the-badge" alt="iam__sayantan" /></a> </p>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **ReactJs**
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
